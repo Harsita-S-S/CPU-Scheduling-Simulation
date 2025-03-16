@@ -10,7 +10,7 @@ This project is a **CPU Scheduling Algorithm Simulator** implemented using Pytho
   - ⏬ Shortest Remaining Time First (**SRTF**)
   - 🎖️ Priority Scheduling (**Preemptive & Non-Preemptive**)
   - 📊 Multi-Level Feedback Queue (**MLFQ**)
-- Upload process data via an Excel file.
+- Upload process data via an Excel file. (use the sample input process.xlsx, large_processes_data.xlsx, or any input of your own)
 - Run a selected scheduling algorithm and display results in a table.
 - Compare all algorithms with visualization and detailed performance metrics.
 - Automatically determine the best algorithm based on turnaround time, throughput, and CPU idle time.
