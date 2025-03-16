@@ -41,15 +41,15 @@ pip install pandas numpy tkinter matplotlib
 
 ## 📁 Project Structure
 ```
-├── fifo.py                        # First Come First Serve scheduling
-├── round_robin.py                 # Round Robin scheduling
-├── sjf.py                         # Shortest Job First scheduling
-├── srtf.py                        # Shortest Remaining Time First scheduling
+├── fifo.py                         # First Come First Serve scheduling
+├── round_robin.py                  # Round Robin scheduling
+├── sjf.py                          # Shortest Job First scheduling
+├── srtf.py                         # Shortest Remaining Time First scheduling
 ├── priority_que_non_preemptive.py  # Non-Preemptive Priority scheduling
 ├── priority_que_preemptive.py      # Preemptive Priority scheduling
-├── mlfq.py                        # Multi-Level Feedback Queue scheduling
+├── mlfq.py                         # Multi-Level Feedback Queue scheduling
 ├── visualization.py                # Performance comparison & visualization
-├── main.py                        # Tkinter-based GUI application
+├── main.py                         # Tkinter-based GUI application
 ├── README.md                       # Project documentation
 ```
 
