@@ -1,0 +1,15 @@
+CPU Scheduling Algorithm Comparison Report
+==================================================
+
+       Throughput  Avg TAT  CPU Idle
+FIFO     0.172414     17.2       0.0
+RR       0.172414     22.6       0.0
+SJF      0.172414     15.2       0.0
+SRTF     0.172414     14.6       0.0
+PQ_NP    0.172414     17.2       0.0
+PQ_P     0.172414     16.2       0.0
+MLFQ     0.052632     15.0      12.0
+
+Best Algorithm Based on Avg TAT: SRTF
+Best Algorithm Based on Throughput: FIFO
+Best Algorithm Based on CPU Idle: FIFO
