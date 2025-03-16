@@ -30,7 +30,7 @@ pip install pandas openpyxl matplotlib
    ```
 2. Run the main application:
    ```bash
-   python main1.py
+   python main.py
    ```
 
 ## 🛠️ Usage
@@ -49,7 +49,7 @@ pip install pandas openpyxl matplotlib
 ├── priority_que_preemptive.py      # Preemptive Priority scheduling
 ├── mlfq.py                        # Multi-Level Feedback Queue scheduling
 ├── visualization.py                # Performance comparison & visualization
-├── main1.py                        # Tkinter-based GUI application
+├── main.py                        # Tkinter-based GUI application
 ├── README.md                       # Project documentation
 ```
 
