@@ -17,9 +17,9 @@ This project is a **CPU Scheduling Algorithm Simulator** implemented using Pytho
 
 ## Installation & Requirements
 ### 📌 Prerequisites
-Ensure you have Python installed (preferably Python 3.x) and install the required dependencies:
+Ensure you have Python installed and install the required dependencies:
 ```bash
-pip install pandas openpyxl matplotlib
+pip install pandas numpy tkinter matplotlib
 ```
 
 ### ▶️ Running the Simulator
